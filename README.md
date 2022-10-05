@@ -1,8 +1,8 @@
 Code được cải tiến từ : 
 https://github.com/huggingface/blog/blob/master/notebooks/08_warm_starting_encoder_decoder.ipynb
 và https://github.com/atulkum/pointer_summarizer
-Link dữ liệu tiếng Việt:
-https://github.com/ThanhChinhBK/vietnews
+
+Link dữ liệu tiếng Việt: https://github.com/ThanhChinhBK/vietnews
 
 Run pip3 install -r requirements.txt để cài đặt thư viện cần thiết 
 Run make_datafiles.py để chuyển dữ liệu về dạng DataFrame
