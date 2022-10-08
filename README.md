@@ -10,10 +10,10 @@ Run make_datafiles.py để chuyển dữ liệu về dạng DataFrame
 Train mô hình
 1. Mô hình với phoBert
 - Cấu hình tại file config.yaml
-- Train mô hình
-Run file PhoBERT/PhoBERTSHARE.ipynb để train mô hình PhoBERTSHARE
-Run file PhoBERT/PhoBERT2PhoBERT.ipynb để train mô hình PhoBERT2PhoBERT
-Run file PhoBERT/PhoBERT2RND.ipynb để train mô hình PhoBERT2RND
+- Train mô hình:
++ Run file PhoBERT/PhoBERTSHARE.ipynb để train mô hình PhoBERTSHARE
++ Run file PhoBERT/PhoBERT2PhoBERT.ipynb để train mô hình PhoBERT2PhoBERT
++ Run file PhoBERT/PhoBERT2RND.ipynb để train mô hình PhoBERT2RND
 - Đánh giá mô hình
 Run file test.py để đánh giá các mô hình từ PhoBERT
 Lựa chọn đường dẫn đến các mô hình đã được train: 'output_dir=' tại file config.yalm
